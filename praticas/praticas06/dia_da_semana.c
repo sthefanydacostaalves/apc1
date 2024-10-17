@@ -15,7 +15,7 @@ int main () {
         break;
 
         case 4: printf("quarta\n");
-        break;
+        break; 
 
         case 5: printf("quinta\n");
         break;
